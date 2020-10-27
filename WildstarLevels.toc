@@ -1,0 +1,7 @@
+## Interface: 11305
+## Title: WildstarLevels
+## Author: Stephen Farr
+## Notes: Emulates the leveling sound effects and imagery from Wildstar
+## Version: 9.0.3
+
+main.lua
